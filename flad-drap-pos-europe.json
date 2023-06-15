@@ -6,7 +6,7 @@
         "fr": "Albanie",
         "flag": "https://flagcdn.com/al.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/800px-Coat_of_arms_of_Albania.svg.png",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Europe-Albania.svg/langfr-1024px-Europe-Albania.svg.png"
+       "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/878px-Location_Albania_Europe.png"
     },
     {
         "name": "Andorra",
@@ -15,17 +15,9 @@
         "fr": "Andorre",
         "flag": "https://flagcdn.com/ad.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coat_of_Arms_of_Andorra.svg/800px-Coat_of_Arms_of_Andorra.svg.png",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/1024px-Location_Andorra_Europe.png"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/877px-Location_Andorra_Europe.png"
     },
-    {
-        "name": "Armenia",
-        "capital": "Yerevan",
-        "population": 2963234,
-        "fr": "Arménie",
-        "flag": "https://flagcdn.com/am.svg",
-        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Coat_of_arms_of_Armenia.svg/1024px-Coat_of_arms_of_Armenia.svg.png",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Armenia_%28orthographic_projection%29.svg/langfr-800px-Armenia_%28orthographic_projection%29.svg.png"
-    },
+   
     {
         "name": "Austria",
         "capital": "Vienna",
@@ -33,7 +25,7 @@
         "fr": "Autriche",
         "flag": "https://flagcdn.com/at.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Austria_Bundesadler.svg?uselang=fr",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/9/9d/EU-Austria.svg"
+       "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EU-Austria.svg/571px-EU-Austria.svg.png"
     },
     {
         "name": "Belarus",
@@ -42,7 +34,7 @@
         "fr": "Biélorussie",
         "flag": "https://flagcdn.com/by.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Belarus_%282020%E2%80%93present%29.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/a/af/Europe-Belarus.svg?uselang=fr"
+       "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Europe-Belarus.svg/571px-Europe-Belarus.svg.png"
     },
     {
         "name": "Belgium",
@@ -51,7 +43,7 @@
         "fr": "Belgique",
         "flag": "https://flagcdn.com/be.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Great_coat_of_arms_of_Belgium.svg?uselang=fr",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/6/67/EU-Belgium.svg"
+         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/EU-Belgium.svg/571px-EU-Belgium.svg.png"
     },
     {
         "name": "Bosnia and Herzegovina",
@@ -60,7 +52,7 @@
         "fr": "Bosnie-Herzégovine",
         "flag": "https://flagcdn.com/ba.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Location_Bosnia-Herzegovina_Europe.png"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Bosnia-Herzegovina_Europe.png/548px-Location_Bosnia-Herzegovina_Europe.png"
     },
     {
         "name": "Bulgaria",
@@ -69,7 +61,7 @@
         "fr": "Bulgarie",
         "flag": "https://flagcdn.com/bg.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Bulgaria.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e9/EU-Bulgaria.svg"
+          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EU-Bulgaria.svg/571px-EU-Bulgaria.svg.png"
     },
     {
         "name": "Croatia",
@@ -78,7 +70,7 @@
         "fr": "Croatie",
         "flag": "https://flagcdn.com/hr.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Croatia.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/1/15/EU-Croatia.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EU-Croatia.svg/571px-EU-Croatia.svg.png"
     },
     {
         "name": "Cyprus",
@@ -87,7 +79,7 @@
         "fr": "Chypre",
         "flag": "https://flagcdn.com/cy.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg?uselang=fr",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/4/4f/EU-Cyprus.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EU-Cyprus.svg/571px-EU-Cyprus.svg.png"
     },
     {
         "name": "Czech Republic",
@@ -96,7 +88,7 @@
         "fr": "République tchèque",
         "flag": "https://flagcdn.com/cz.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_arms_of_the_Czech_Republic.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/3/31/EU-Czech_Republic.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/571px-EU-Czech_Republic.svg.png"
     },
     {
         "name": "Denmark",
@@ -105,7 +97,7 @@
         "fr": "Danemark",
         "flag": "https://flagcdn.com/dk.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c6/National_Coat_of_arms_of_Denmark.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg/480px-Kingdom_of_Denmark_%28orthographic_projection%29.svg.png"
     },
     {
         "name": "Estonia",
@@ -114,7 +106,7 @@
         "fr": "Estonie",
         "flag": "https://flagcdn.com/ee.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_arms_of_Estonia.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a2/EU-Estonia.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EU-Estonia.svg/571px-EU-Estonia.svg.png"
     },
     {
         "name": "Faroe Islands",
@@ -132,7 +124,7 @@
         "fr": "Finlande",
         "flag": "https://flagcdn.com/fi.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Coat_of_arms_of_Finland.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/6/6e/EU-Finland.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/571px-EU-Finland.svg.png"
     },
     {
         "name": "France",
@@ -141,7 +133,7 @@
         "fr": "France",
         "flag": "https://flagcdn.com/fr.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Armoiries_r%C3%A9publique_fran%C3%A7aise.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a4/EU-France_%28orthographic_projection%29.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EU-France_%28orthographic_projection%29.svg/768px-EU-France_%28orthographic_projection%29.svg.png"
     },
     {
         "name": "Germany",
@@ -150,7 +142,7 @@
         "fr": "Allemagne",
         "flag": "https://flagcdn.com/de.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Germany.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/a/af/EU-Germany_%28orthographic_projection%29.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/EU-Germany_%28orthographic_projection%29.svg/480px-EU-Germany_%28orthographic_projection%29.svg.png"
     },
     {
         "name": "Greece",
@@ -158,7 +150,7 @@
         "fr": "Grèce",
         "flag": "https://flagcdn.com/gr.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Greece.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/2/21/EU-Greece.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/EU-Greece_%28orthographic_projection%29.svg/480px-EU-Greece_%28orthographic_projection%29.svg.png"
     },
     {
         "name": "Vatican City",
@@ -167,7 +159,7 @@
         "fr": "Vatican",
         "flag": "https://flagcdn.com/va.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Coat_of_arms_of_the_Vatican_City.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/8/89/Location_of_the_Vatican_City_in_Europe.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Location_of_the_Vatican_City_in_Europe.svg/628px-Location_of_the_Vatican_City_in_Europe.svg.png"
     },
     {
         "name": "Hungary",
@@ -176,7 +168,7 @@
         "fr": "Hongrie",
         "flag": "https://flagcdn.com/hu.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_arms_of_Hungary_%28oak_and_olive_branches%29.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/6/60/EU-Hungary.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/571px-EU-Hungary.svg.png"
     },
     {
         "name": "Iceland",
@@ -185,7 +177,7 @@
         "fr": "Islande",
         "flag": "https://flagcdn.com/is.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_arms_of_Iceland.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceland_%28orthographic_projection%29.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceland_%28orthographic_projection%29.svg"
     },
     {
         "name": "Ireland",
@@ -194,17 +186,10 @@
         "fr": "Irlande",
         "flag": "https://flagcdn.com/ie.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Coat_of_arms_of_Ireland.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/3/38/EU-Ireland_%28orthographic_projection%29.svg"
+         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EU-Ireland_%28orthographic_projection%29.svg/480px-EU-Ireland_%28orthographic_projection%29.svg.png"
+
     },
-    {
-        "name": "Israel",
-        "capital": "Jerusalem",
-        "population": 9216900,
-        "fr": "Israël",
-        "flag": "https://flagcdn.com/il.svg",
-        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Emblem_of_Israel.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Israel_%28orthographic_projection%29_with_occupied_territories.svg"
-    },
+
     {
         "name": "Italy",
         "capital": "Rome",
@@ -212,7 +197,8 @@
         "fr": "Italie",
         "flag": "https://flagcdn.com/it.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/00/Emblem_of_Italy.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/c/cd/EU-Italy_%28orthographic_projection%29.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EU-Italy_%28orthographic_projection%29.svg/480px-EU-Italy_%28orthographic_projection%29.svg.png"
+
     },
     {
         "name": "Latvia",
@@ -221,7 +207,7 @@
         "fr": "Lettonie",
         "flag": "https://flagcdn.com/lv.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Latvia.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/3/32/EU-Latvia.svg"
+          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/EU-Latvia.svg/285px-EU-Latvia.svg.png"
     },
     {
         "name": "Liechtenstein",
@@ -230,7 +216,7 @@
         "fr": "Liechtenstein",
         "flag": "https://flagcdn.com/li.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/18/Staatswappen-Liechtensteins.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/3/36/Location_Liechtenstein_Europe.png"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Location_Liechtenstein_Europe.png/548px-Location_Liechtenstein_Europe.png"
     },
     {
         "name": "Lithuania",
@@ -239,7 +225,7 @@
         "fr": "Lituanie",
         "flag": "https://flagcdn.com/lt.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Lithuania.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/e/ec/EU-Lithuania.svg"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EU-Lithuania.svg/571px-EU-Lithuania.svg.png"
     },
     {
         "name": "Luxembourg",
@@ -248,7 +234,7 @@
         "fr": "Luxembourg",
         "flag": "https://flagcdn.com/lu.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/c/c3/EU-Luxembourg.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/EU-Luxembourg.svg/571px-EU-Luxembourg.svg.png"
     },
     {
         "name": "North Macedonia",
@@ -257,7 +243,7 @@
         "fr": "Macédoine du nord",
         "flag": "https://flagcdn.com/mk.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Coat_of_arms_of_North_Macedonia.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/3/35/Location_Macedonia_Europe.png"
+         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Macedonia_Europe.png/548px-Location_Macedonia_Europe.png"
     },
     {
         "name": "Malta",
@@ -266,7 +252,7 @@
         "fr": "Malte",
         "flag": "https://flagcdn.com/mt.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Malta.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/6/63/EU-Malta.svg"
+       "position" :"https://upload.wikimedia.org/wikipedia/commons/6/63/EU-Malta.svg"
     },
     {
         "name": "Moldova (Republic of)",
@@ -275,7 +261,7 @@
         "fr": "Moldavie",
         "flag": "https://flagcdn.com/md.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_arms_of_Moldova.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Location_Moldova_Europe.png"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Moldova_Europe.png/548px-Location_Moldova_Europe.png"
     },
     {
         "name": "Monaco",
@@ -284,7 +270,7 @@
         "fr": "Monaco",
         "flag": "https://flagcdn.com/mc.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_Monaco.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Location_Monaco_Europe.png"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Location_Monaco_Europe.svg/571px-Location_Monaco_Europe.svg.png"
     },
     {
         "name": "Montenegro",
@@ -293,7 +279,7 @@
         "fr": "Monténégro",
         "flag": "https://flagcdn.com/me.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Montenegro.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Europe-Montenegro.svg"
+        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Europe-Montenegro.svg/571px-Europe-Montenegro.svg.png"
     },
     {
         "name": "Netherlands",
@@ -302,7 +288,7 @@
         "fr": "Pays-Bas",
         "flag": "https://flagcdn.com/nl.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8f/State_coat_of_arms_of_the_Netherlands.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg"
+       "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg/480px-Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg.png"
     },
     {
         "name": "Norway",
@@ -311,7 +297,8 @@
         "fr": "Norvège",
         "flag": "https://flagcdn.com/no.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Norway.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Europe-Norway_%28orthographic_projection%29.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Europe-Norway_%28orthographic_projection%29.svg/480px-Europe-Norway_%28orthographic_projection%29.svg.png"
+
     },
     {
         "name": "Poland",
@@ -320,7 +307,8 @@
         "fr": "Pologne",
         "flag": "https://flagcdn.com/pl.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Herb_Polski.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/5/57/EU-Poland_%28orthographic_projection%29.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/EU-Poland_%28orthographic_projection%29.svg/480px-EU-Poland_%28orthographic_projection%29.svg.png"
+
     },
     {
         "name": "Portugal",
@@ -329,7 +317,8 @@
         "fr": "Portugal",
         "flag": "https://flagcdn.com/pt.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_arms_of_Portugal.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a5/EU-Portugal_%28orthographic_projection%29.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/EU-Portugal_%28orthographic_projection%29.svg/480px-EU-Portugal_%28orthographic_projection%29.svg.png"
+
     },
     {
         "name": "Republic of Kosovo",
@@ -338,7 +327,7 @@
         "fr": "Kosovo",
         "flag": "https://flagcdn.com/xk.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Emblem_of_the_Republic_of_Kosovo.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/1/18/Europe-Republic_of_Kosovo.svg"
+         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Europe-Republic_of_Kosovo.svg/571px-Europe-Republic_of_Kosovo.svg.png"
     },
     {
         "name": "Romania",
@@ -347,7 +336,8 @@
         "fr": "Roumanie",
         "flag": "https://flagcdn.com/ro.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Romania.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/c/c5/EU-Romania_%28orthographic_projection%29.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/EU-Romania_%28orthographic_projection%29.svg/480px-EU-Romania_%28orthographic_projection%29.svg.png"
+
     },
     {
         "name": "Russian Federation",
@@ -356,7 +346,7 @@
         "fr": "Russie",
         "flag": "https://flagcdn.com/ru.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_Arms_of_the_Russian_Federation.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg"
+    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg/479px-Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg.png"
     },
     {
         "name": "San Marino",
@@ -365,7 +355,7 @@
         "fr": "Saint-Marin",
         "flag": "https://flagcdn.com/sm.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_San_Marino.svg",
-        "position": "https://upload.wikimedia.org/wikipedia/commons/7/79/Location_San_Marino_Europe.png"
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Location_San_Marino_Europe.svg/571px-Location_San_Marino_Europe.svg.png"
     },
     {
         "name": "Serbia",
@@ -380,8 +370,8 @@
            
         "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/96/Coat_of_arms_of_Serbia.svg",
     
-        "position" :"https://upload.wikimedia.org/wikipedia/commons/e/e8/Serbia_%28orthographic_projection%29.svg"
-        
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Serbia_%28orthographic_projection%29.svg/480px-Serbia_%28orthographic_projection%29.svg.png"
+
        
         },
         {
@@ -397,7 +387,7 @@
                
             "embleme":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Coat_of_arms_of_Slovakia.svg",
         
-            "position" :"https://upload.wikimedia.org/wikipedia/commons/1/1d/EU-Slovakia.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/EU-Slovakia.svg/571px-EU-Slovakia.svg.png"
             
            
             },
@@ -414,7 +404,7 @@
                
             "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Coat_of_arms_of_Slovenia.svg",
         
-            "position" :"https://upload.wikimedia.org/wikipedia/commons/8/84/EU-Slovenia.svg"
+            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/EU-Slovenia.svg/571px-EU-Slovenia.svg.png"
             
            
             },
@@ -431,7 +421,8 @@
                    
                 "embleme":"https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_Espa%C3%B1a_%28mazonado%29.svg",
             
-                "position" :"https://upload.wikimedia.org/wikipedia/commons/c/ca/EU-Spain_%28orthographic_projection%29.svg"
+                    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EU-Spain_%28orthographic_projection%29.svg/480px-EU-Spain_%28orthographic_projection%29.svg.png"
+
                 
                
                 },
@@ -448,7 +439,8 @@
                        
                     "embleme":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Great_coat_of_arms_of_Sweden.svg",
                 
-                    "position" :"https://upload.wikimedia.org/wikipedia/commons/c/c2/EU-Sweden_%28orthographic_projection%29.svg"
+                        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/EU-Sweden.svg/285px-EU-Sweden.svg.png"
+
                     
                    
                     },
@@ -465,8 +457,7 @@
                        
                     "embleme":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Coat_of_Arms_of_Switzerland_%28Pantone%29.svg",
                 
-                    "position" :"https://upload.wikimedia.org/wikipedia/commons/6/61/Europe-Switzerland.svg"
-                    
+                    "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Europe-Switzerland.svg/571px-Europe-Switzerland.svg.png"
                    
                     },
                     {
@@ -482,7 +473,8 @@
                            
                         "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg",
                     
-                        "position" :"https://upload.wikimedia.org/wikipedia/commons/9/9e/Ukraine_-_disputed_%28orthographic_projection%29.svg"
+                            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ukraine_-_disputed_%28orthographic_projection%29.svg/480px-Ukraine_-_disputed_%28orthographic_projection%29.svg.png"
+
                         
                        
                         },
@@ -499,7 +491,7 @@
                                
                             "embleme":"https://upload.wikimedia.org/wikipedia/commons/9/98/Royal_Coat_of_Arms_of_the_United_Kingdom.svg",
                         
-                            "position" :"https://upload.wikimedia.org/wikipedia/commons/0/07/United_Kingdom_%28orthographic_projection%29.svg"
+                            "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/United_Kingdom_%28orthographic_projection%29.svg/480px-United_Kingdom_%28orthographic_projection%29.svg.png"
                             
                            
                             }
