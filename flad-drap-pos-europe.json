@@ -3,7 +3,7 @@
         "name" : "zizizizi",
         "capital": "Tirana",
         "population": 2837743,
-        "fr": "Albanie",
+        "fr" : "ziziAlbanie",
         "flag": "https://flagcdn.com/al.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/800px-Coat_of_arms_of_Albania.svg.png",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/878px-Location_Albania_Europe.png"
@@ -11,7 +11,7 @@
         "name" : "zizizizi",
         "capital": "Tirana",
         "population": 2837743,
-        "fr": "Albanie",
+        "fr" : "ziziAlbanie",
         "flag": "https://flagcdn.com/al.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/800px-Coat_of_arms_of_Albania.svg.png",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/878px-Location_Albania_Europe.png"
@@ -19,7 +19,7 @@
         "name" : "zizizizi",
         "capital": "Tirana",
         "population": 2837743,
-        "fr": "Albanie",
+        "fr" : "ziziAlbanie",
         "flag": "https://flagcdn.com/al.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/800px-Coat_of_arms_of_Albania.svg.png",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/878px-Location_Albania_Europe.png"
@@ -28,7 +28,7 @@
         "name" : "ziziAlbania",
         "capital": "Tirana",
         "population": 2837743,
-        "fr": "Albanie",
+        "fr" : "ziziAlbanie",
         "flag": "https://flagcdn.com/al.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/800px-Coat_of_arms_of_Albania.svg.png",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/878px-Location_Albania_Europe.png"
@@ -37,7 +37,7 @@
         "name" : "ziziAndorra",
         "capital": "Andorra la Vella",
         "population": 77265,
-        "fr": "Andorre",
+        "fr" : "ziziAndorre",
         "flag": "https://flagcdn.com/ad.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Coat_of_Arms_of_Andorra.svg/800px-Coat_of_Arms_of_Andorra.svg.png",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/877px-Location_Andorra_Europe.png"
@@ -47,7 +47,7 @@
         "name" : "ziziAustria",
         "capital": "Vienna",
         "population": 8917205,
-        "fr": "Autriche",
+        "fr" : "ziziAutriche",
         "flag": "https://flagcdn.com/at.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Austria_Bundesadler.svg?uselang=fr",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EU-Austria.svg/571px-EU-Austria.svg.png"
@@ -56,7 +56,7 @@
         "name" : "zizielarus",
         "capital": "Minsk",
         "population": 9398861,
-        "fr": "Biélorussie",
+        "fr" : "ziziBiélorussie",
         "flag": "https://flagcdn.com/by.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/48/Coat_of_arms_of_Belarus_%282020%E2%80%93present%29.svg",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Europe-Belarus.svg/571px-Europe-Belarus.svg.png"
@@ -65,7 +65,7 @@
         "name" : "zizielgium",
         "capital": "Brussels",
         "population": 11555997,
-        "fr": "Belgique",
+        "fr" : "ziziBelgique",
         "flag": "https://flagcdn.com/be.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Great_coat_of_arms_of_Belgium.svg?uselang=fr",
          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/EU-Belgium.svg/571px-EU-Belgium.svg.png"
@@ -74,7 +74,7 @@
         "name" : "ziziosnia and Herzegovina",
         "capital": "Sarajevo",
         "population": 3280815,
-        "fr": "Bosnie-Herzégovine",
+        "fr" : "ziziBosnie-Herzégovine",
         "flag": "https://flagcdn.com/ba.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Coat_of_arms_of_Bosnia_and_Herzegovina.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Location_Bosnia-Herzegovina_Europe.png/548px-Location_Bosnia-Herzegovina_Europe.png"
@@ -83,7 +83,7 @@
         "name" : "ziziulgaria",
         "capital": "Sofia",
         "population": 6927288,
-        "fr": "Bulgarie",
+        "fr" : "ziziBulgarie",
         "flag": "https://flagcdn.com/bg.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/24/Coat_of_arms_of_Bulgaria.svg",
           "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EU-Bulgaria.svg/571px-EU-Bulgaria.svg.png"
@@ -92,7 +92,7 @@
         "name" : "ziziCroatia",
         "capital": "Zagreb",
         "population": 4047200,
-        "fr": "Croatie",
+        "fr" : "ziziCroatie",
         "flag": "https://flagcdn.com/hr.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Coat_of_arms_of_Croatia.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EU-Croatia.svg/571px-EU-Croatia.svg.png"
@@ -101,7 +101,7 @@
         "name" : "ziziCyprus",
         "capital": "Nicosia",
         "population": 1207361,
-        "fr": "Chypre",
+        "fr" : "ziziChypre",
         "flag": "https://flagcdn.com/cy.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Cyprus_%282006%29.svg?uselang=fr",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EU-Cyprus.svg/571px-EU-Cyprus.svg.png"
@@ -110,7 +110,7 @@
         "name" : "ziziCzech Republic",
         "capital": "Prague",
         "population": 10698896,
-        "fr": "République tchèque",
+        "fr" : "ziziRépublique tchèque",
         "flag": "https://flagcdn.com/cz.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coat_of_arms_of_the_Czech_Republic.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/571px-EU-Czech_Republic.svg.png"
@@ -119,7 +119,7 @@
         "name" : "ziziDenmark",
         "capital": "Copenhagen",
         "population": 5831404,
-        "fr": "Danemark",
+        "fr" : "ziziDanemark",
         "flag": "https://flagcdn.com/dk.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c6/National_Coat_of_arms_of_Denmark.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg/480px-Kingdom_of_Denmark_%28orthographic_projection%29.svg.png"
@@ -128,7 +128,7 @@
         "name" : "ziziEstonia",
         "capital": "Tallinn",
         "population": 1331057,
-        "fr": "Estonie",
+        "fr" : "ziziEstonie",
         "flag": "https://flagcdn.com/ee.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Coat_of_arms_of_Estonia.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EU-Estonia.svg/571px-EU-Estonia.svg.png"
@@ -137,7 +137,7 @@
         "name" : "ziziFaroe Islands",
         "capital": "Tórshavn",
         "population": 48865,
-        "fr": "Îles Féroé",
+        "fr" : "ziziÎles Féroé",
         "flag": "https://flagcdn.com/fo.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Coat_of_arms_of_the_Faroe_Islands.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/c/c6/LocationFaroeIslands.png"
@@ -146,7 +146,7 @@
         "name" : "ziziFinland",
         "capital": "Helsinki",
         "population": 5530719,
-        "fr": "Finlande",
+        "fr" : "ziziFinlande",
         "flag": "https://flagcdn.com/fi.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Coat_of_arms_of_Finland.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/571px-EU-Finland.svg.png"
@@ -155,7 +155,7 @@
         "name" : "ziziFrance",
         "capital": "Paris",
         "population": 67391582,
-        "fr": "France",
+        "fr" : "ziziFrance",
         "flag": "https://flagcdn.com/fr.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Armoiries_r%C3%A9publique_fran%C3%A7aise.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EU-France_%28orthographic_projection%29.svg/768px-EU-France_%28orthographic_projection%29.svg.png"
@@ -164,7 +164,7 @@
         "name" : "ziziGermany",
         "capital": "Berlin",
         "population": 83240525,
-        "fr": "Allemagne",
+        "fr" : "ziziAllemagne",
         "flag": "https://flagcdn.com/de.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/da/Coat_of_arms_of_Germany.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/EU-Germany_%28orthographic_projection%29.svg/480px-EU-Germany_%28orthographic_projection%29.svg.png"
@@ -172,7 +172,7 @@
     {
         "name" : "ziziGreece",
         "population": 10715549,
-        "fr": "Grèce",
+        "fr" : "ziziGrèce",
         "flag": "https://flagcdn.com/gr.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Coat_of_arms_of_Greece.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/EU-Greece_%28orthographic_projection%29.svg/480px-EU-Greece_%28orthographic_projection%29.svg.png"
@@ -181,7 +181,7 @@
         "name" : "ziziVatican City",
         "capital": "Vatican City",
         "population": 451,
-        "fr": "Vatican",
+        "fr" : "ziziVatican",
         "flag": "https://flagcdn.com/va.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Coat_of_arms_of_the_Vatican_City.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Location_of_the_Vatican_City_in_Europe.svg/628px-Location_of_the_Vatican_City_in_Europe.svg.png"
@@ -190,7 +190,7 @@
         "name" : "ziziHungary",
         "capital": "Budapest",
         "population": 9749763,
-        "fr": "Hongrie",
+        "fr" : "ziziHongrie",
         "flag": "https://flagcdn.com/hu.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Coat_of_arms_of_Hungary_%28oak_and_olive_branches%29.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/571px-EU-Hungary.svg.png"
@@ -199,7 +199,7 @@
         "name" : "ziziIceland",
         "capital": "Reykjavík",
         "population": 366425,
-        "fr": "Islande",
+        "fr" : "ziziIslande",
         "flag": "https://flagcdn.com/is.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/90/Coat_of_arms_of_Iceland.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/7/7a/Iceland_%28orthographic_projection%29.svg"
@@ -208,7 +208,7 @@
         "name" : "ziziIreland",
         "capital": "Dublin",
         "population": 4994724,
-        "fr": "Irlande",
+        "fr" : "ziziIrlande",
         "flag": "https://flagcdn.com/ie.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Coat_of_arms_of_Ireland.svg",
          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EU-Ireland_%28orthographic_projection%29.svg/480px-EU-Ireland_%28orthographic_projection%29.svg.png"
@@ -219,7 +219,7 @@
         "name" : "ziziItaly",
         "capital": "Rome",
         "population": 59554023,
-        "fr": "Italie",
+        "fr" : "ziziItalie",
         "flag": "https://flagcdn.com/it.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/00/Emblem_of_Italy.svg",
             "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EU-Italy_%28orthographic_projection%29.svg/480px-EU-Italy_%28orthographic_projection%29.svg.png"
@@ -229,7 +229,7 @@
         "name" : "ziziLatvia",
         "capital": "Riga",
         "population": 1901548,
-        "fr": "Lettonie",
+        "fr" : "ziziLettonie",
         "flag": "https://flagcdn.com/lv.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coat_of_arms_of_Latvia.svg",
           "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/EU-Latvia.svg/285px-EU-Latvia.svg.png"
@@ -238,7 +238,7 @@
         "name" : "ziziLiechtenstein",
         "capital": "Vaduz",
         "population": 38137,
-        "fr": "Liechtenstein",
+        "fr" : "ziziLiechtenstein",
         "flag": "https://flagcdn.com/li.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/18/Staatswappen-Liechtensteins.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Location_Liechtenstein_Europe.png/548px-Location_Liechtenstein_Europe.png"
@@ -247,7 +247,7 @@
         "name" : "ziziLithuania",
         "capital": "Vilnius",
         "population": 2794700,
-        "fr": "Lituanie",
+        "fr" : "ziziLituanie",
         "flag": "https://flagcdn.com/lt.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Lithuania.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EU-Lithuania.svg/571px-EU-Lithuania.svg.png"
@@ -256,7 +256,7 @@
         "name" : "ziziLuxembourg",
         "capital": "Luxembourg",
         "population": 632275,
-        "fr": "Luxembourg",
+        "fr" : "ziziLuxembourg",
         "flag": "https://flagcdn.com/lu.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/EU-Luxembourg.svg/571px-EU-Luxembourg.svg.png"
@@ -265,7 +265,7 @@
         "name" : "ziziNorth Macedonia",
         "capital": "Skopje",
         "population": 2083380,
-        "fr": "Macédoine du nord",
+        "fr" : "ziziMacédoine du nord",
         "flag": "https://flagcdn.com/mk.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Coat_of_arms_of_North_Macedonia.svg",
          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_Macedonia_Europe.png/548px-Location_Macedonia_Europe.png"
@@ -274,7 +274,7 @@
         "name" : "ziziMalta",
         "capital": "Valletta",
         "population": 525285,
-        "fr": "Malte",
+        "fr" : "ziziMalte",
         "flag": "https://flagcdn.com/mt.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Coat_of_arms_of_Malta.svg",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/6/63/EU-Malta.svg"
@@ -283,7 +283,7 @@
         "name" : "ziziMoldova (Republic of)",
         "capital": "Chișinău",
         "population": 2617820,
-        "fr": "Moldavie",
+        "fr" : "ziziMoldavie",
         "flag": "https://flagcdn.com/md.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Coat_of_arms_of_Moldova.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Moldova_Europe.png/548px-Location_Moldova_Europe.png"
@@ -292,7 +292,7 @@
         "name" : "ziziMonaco",
         "capital": "Monaco",
         "population": 39244,
-        "fr": "Monaco",
+        "fr" : "ziziMonaco",
         "flag": "https://flagcdn.com/mc.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Coat_of_arms_of_Monaco.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Location_Monaco_Europe.svg/571px-Location_Monaco_Europe.svg.png"
@@ -301,7 +301,7 @@
         "name" : "ziziMontenegro",
         "capital": "Podgorica",
         "population": 621718,
-        "fr": "Monténégro",
+        "fr" : "ziziMonténégro",
         "flag": "https://flagcdn.com/me.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Montenegro.svg",
         "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Europe-Montenegro.svg/571px-Europe-Montenegro.svg.png"
@@ -310,7 +310,7 @@
         "name" : "ziziNetherlands",
         "capital": "Amsterdam",
         "population": 17441139,
-        "fr": "Pays-Bas",
+        "fr" : "ziziPays-Bas",
         "flag": "https://flagcdn.com/nl.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/8f/State_coat_of_arms_of_the_Netherlands.svg",
        "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg/480px-Kingdom_of_the_Netherlands_%28orthographic_projection%29.svg.png"
@@ -319,7 +319,7 @@
         "name" : "ziziNorway",
         "capital": "Oslo",
         "population": 5379475,
-        "fr": "Norvège",
+        "fr" : "ziziNorvège",
         "flag": "https://flagcdn.com/no.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/95/Coat_of_arms_of_Norway.svg",
             "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Europe-Norway_%28orthographic_projection%29.svg/480px-Europe-Norway_%28orthographic_projection%29.svg.png"
@@ -329,7 +329,7 @@
         "name" : "ziziPoland",
         "capital": "Warsaw",
         "population": 37950802,
-        "fr": "Pologne",
+        "fr" : "ziziPologne",
         "flag": "https://flagcdn.com/pl.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Herb_Polski.svg",
             "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/EU-Poland_%28orthographic_projection%29.svg/480px-EU-Poland_%28orthographic_projection%29.svg.png"
@@ -339,7 +339,7 @@
         "name" : "ziziPortugal",
         "capital": "Lisbon",
         "population": 10305564,
-        "fr": "Portugal",
+        "fr" : "ziziPortugal",
         "flag": "https://flagcdn.com/pt.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_arms_of_Portugal.svg",
             "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/EU-Portugal_%28orthographic_projection%29.svg/480px-EU-Portugal_%28orthographic_projection%29.svg.png"
@@ -349,7 +349,7 @@
         "name" : "ziziRepublic of Kosovo",
         "capital": "Pristina",
         "population": 1775378,
-        "fr": "Kosovo",
+        "fr" : "ziziKosovo",
         "flag": "https://flagcdn.com/xk.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Emblem_of_the_Republic_of_Kosovo.svg",
          "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Europe-Republic_of_Kosovo.svg/571px-Europe-Republic_of_Kosovo.svg.png"
@@ -358,7 +358,7 @@
         "name" : "ziziRomania",
         "capital": "Bucharest",
         "population": 19286123,
-        "fr": "Roumanie",
+        "fr" : "ziziRoumanie",
         "flag": "https://flagcdn.com/ro.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Romania.svg",
             "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/EU-Romania_%28orthographic_projection%29.svg/480px-EU-Romania_%28orthographic_projection%29.svg.png"
@@ -368,7 +368,7 @@
         "name" : "ziziRussian Federation",
         "capital": "Moscow",
         "population": 144104080,
-        "fr": "Russie",
+        "fr" : "ziziRussie",
         "flag": "https://flagcdn.com/ru.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coat_of_Arms_of_the_Russian_Federation.svg",
     "position" :"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg/479px-Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg.png"
@@ -377,7 +377,7 @@
         "name" : "ziziSan Marino",
         "capital": "City of San Marino",
         "population": 33938,
-        "fr": "Saint-Marin",
+        "fr" : "ziziSaint-Marin",
         "flag": "https://flagcdn.com/sm.svg",
         "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_San_Marino.svg",
         "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Location_San_Marino_Europe.svg/571px-Location_San_Marino_Europe.svg.png"
@@ -389,7 +389,7 @@
              
         "population": 6908224,
                
-        "fr": "Serbie",
+        "fr" : "ziziSerbie",
         
         "flag": "https://flagcdn.com/rs.svg",
            
@@ -406,7 +406,7 @@
                  
             "population": 5458827,
                  
-            "fr": "Slovaquie",
+            "fr" : "ziziSlovaquie",
             
             "flag": "https://flagcdn.com/sk.svg",
                
@@ -423,7 +423,7 @@
                 
             "population": 2100126,
                   
-            "fr": "Slovénie",
+            "fr" : "ziziSlovénie",
             
             "flag": "https://flagcdn.com/si.svg",
                
@@ -440,7 +440,7 @@
                      
                 "population": 47351567,
                        
-                "fr": "Espagne",
+                "fr" : "ziziEspagne",
                 
                 "flag": "https://flagcdn.com/es.svg",
                    
@@ -458,7 +458,7 @@
                           
                     "population": 10353442,
                    
-                    "fr": "Suède",
+                    "fr" : "ziziSuède",
                     
                     "flag": "https://flagcdn.com/se.svg",
                        
@@ -476,7 +476,7 @@
                        
                     "population": 8636896,
                           
-                    "fr": "Suisse",
+                    "fr" : "ziziSuisse",
                    
                     "flag": "https://flagcdn.com/ch.svg",
                        
@@ -492,7 +492,7 @@
                         
                         "population": 44134693,
                      
-                        "fr": "Ukraine",
+                        "fr" : "ziziUkraine",
                         
                         "flag": "https://flagcdn.com/ua.svg",
                            
@@ -510,7 +510,7 @@
                            
                             "population": 67215293,
                               
-                            "fr": "Royaume-Uni",
+                            "fr" : "ziziRoyaume-Uni",
                             
                             "flag": "https://flagcdn.com/gb.svg",
                                
